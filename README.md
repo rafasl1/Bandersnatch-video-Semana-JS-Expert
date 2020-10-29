@@ -18,3 +18,4 @@ Projeto base desenvolvido por @ErickWendel
 - Uso da biblioteca video.js, uma bibblioteca JavaScript pra trabalhar com vídeos.
 - Deve-se baixar o ffmpeg e ffprobe (para desenvolvedores windows é necessário adicioná-los ao Path das variáveis de ambiente).
 - ffprobe/ffmpeg --help no terminal pra ter mais informações sobre esses programas.
+- Media Source Extensions não funcionam em qualquer tipo de ambiente (por exemplo, no IOs não funcionam bem)
